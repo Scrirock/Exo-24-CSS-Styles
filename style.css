@@ -1,1 +1,66 @@
+body{
+    font-family: Verdana, sans-serif;
+    background-color: white;
+}
+h1, h2, h3{
+    font-family: Arial, sans-serif;
+    text-decoration-line: underline;
+}
+.produit{
+    color: coral;
+    font-style: italic;
+    text-transform: capitalize;
+}
 
+.reference{
+    color: black;
+    font-style: italic;
+    background-color: #C0C0C0;
+}
+
+.general{
+    color: blue;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+#poeme{
+
+}
+
+#poeme>h3{
+    color: red;
+    text-transform: capitalize;
+}
+
+blockquote>p:first-letter{
+    color: green;
+    font-weight: bold;
+    font-family: fantasy, sans-serif;
+}
+
+blockquote>p{
+    padding-left: 20px;
+}
+
+th{
+    font-variant: small-caps;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+#otreTruk{
+
+}
+
+#mot{
+    color: blue;
+    font-size: small;
+    background-color: #C0C0C0;
+}
+
+#fin{
+
+}
